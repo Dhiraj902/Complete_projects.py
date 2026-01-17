@@ -1,0 +1,40 @@
+﻿Job Title: Data Analyst
+
+Role Overview:
+We are seeking a highly motivated and detail-oriented Data Analyst who can transform raw data
+into meaningful insights that drive business decisions. The ideal candidate will have strong
+analytical skills, business understanding, and the ability to communicate insights clearly to
+stakeholders.
+
+Key Responsibilities:
+• Collect, clean, and validate large datasets from multiple sources
+• Analyze data to identify trends, patterns, and actionable insights
+• Create dashboards and reports using tools like Power BI / Tableau
+• Write and optimize SQL queries for data extraction and analysis
+• Work closely with business teams to understand requirements
+• Perform data validation and ensure data accuracy
+• Present insights and recommendations to stakeholders
+• Support decision-making through data-driven analysis
+
+Required Skills:
+• Strong knowledge of SQL and databases
+• Proficiency in Excel (VLOOKUP, Pivot Tables, Power Query)
+• Experience with Power BI / Tableau
+• Basic to intermediate Python (Pandas, NumPy)
+• Understanding of statistics (mean, median, variance, confidence interval)
+• Strong problem-solving and analytical thinking
+
+Preferred Qualifications:
+• Bachelor’s degree in Data Science, Statistics, Computer Science, or related field
+• Experience working with large datasets
+• Knowledge of data modeling and ETL concepts
+• Familiarity with business metrics and KPIs
+
+Why Join Us:
+• Opportunity to work with real-world data and impactful projects
+• Collaborative and growth-focused work environment
+• Learning and career development opportunities
+• Competitive salary and benefits
+
+Location: Open / Hybrid / Remote
+Experience: 0–3 Years
